@@ -12,10 +12,8 @@ title: 백준 알고리즘 1924번 - 요일 체크하기
 ![_config.yml]({{haloyoonjae.github.io }}/images/checkDay_code.png)
 
 ---
-</pre>
-출력값입니다
 <pre>
-
+출력값입니다
 </pre>
 ![_config.yml]({{haloyoonjae.github.io }}/images/checkDay_result.JPG)
 
