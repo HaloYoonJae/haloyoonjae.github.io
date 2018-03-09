@@ -36,6 +36,7 @@ console.log("%d월 %d일의 요일은 " + checkDay(argument) +"입니다",month,
 </pre>
 출력값입니다
 <pre>
+----------------------------------------------------------------------
 </pre>
 ![_config.yml]({{haloyoonjae.github.io }}/images/checkDay_result.JPG)
 
