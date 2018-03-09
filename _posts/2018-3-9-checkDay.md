@@ -2,7 +2,7 @@
 
 layout: post
 
-title: 백준 알고리즘 1924번 - 요일 체크하기
+title: [javascript]백준 알고리즘 1924번 - 요일 체크하기
 
 ---
 
