@@ -32,3 +32,6 @@ for(i = 1 ; i<month ; i++) argument += arr[i-1];
 argument += date;
 
 console.log("%d월 %d일의 요일은 " + checkDay(argument) +"입니다",month, date);
+
+출력값입니다
+![_config.yml]({{haloyoonjae.github.io }}/images/checkDay_result.JPG)
