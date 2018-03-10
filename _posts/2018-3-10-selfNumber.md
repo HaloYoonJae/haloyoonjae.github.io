@@ -22,12 +22,12 @@ language : javascript
 
 (1)문제를 보고 먼저 가장 먼저 '일단 입력값 x의 각 자리 숫자를 구해야겠다'는 생각을 했습니다. 
 
-![_config.yml]({{haloyoonjae.github.io }}/images/first.png)
+![_config.yml]({{haloyoonjae.github.io }}/images/first.PNG)
 
 (2)그리고 제너레이터 x로 만드는 출력값 y를 배열에 저장했습니다.
 여기서 ,1부터 5000까지의 합과 y에 있는 숫자들의 합을 빼면 답을 구할 수 있겠다 생각했습니다.
 
-![_config.yml]({{haloyoonjae.github.io }}/images/second.png)
+![_config.yml]({{haloyoonjae.github.io }}/images/second.PNG)
 
 문제는 y가 될 수 없는 숫자들의 합이니까요.
 
@@ -41,15 +41,15 @@ for문을 돌릴 때, x가 91일 떄와 100일 때 y의 값이 101, 101이 되�
 (4)그래서 y값을 저장하고, y에 있는 중복값들을 제거해야합니다. 
 
 
-![_config.yml]({{haloyoonjae.github.io }}/images/third.png)
+![_config.yml]({{haloyoonjae.github.io }}/images/third.PNG)
 
 (5)제거한후, 1부터 5000까지의 합과 y에있는 값들의 합을 뺍니다.
 
-![_config.yml]({{haloyoonjae.github.io }}/images/fourth.png)
+![_config.yml]({{haloyoonjae.github.io }}/images/fourth.PNG)
 
 전체코드입니다.
 
-![_config.yml]({{haloyoonjae.github.io }}/images/all.png)
+![_config.yml]({{haloyoonjae.github.io }}/images/all.PNG)
 
 아직 포스팅하는데 익숙치 않아서 다음엔 차근차근 설명하도록 하겠습니다.
 
